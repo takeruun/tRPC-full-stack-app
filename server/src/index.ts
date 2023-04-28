@@ -18,3 +18,5 @@ app.use(
 );
 
 app.listen(3210);
+
+export type AppRouter = typeof appRouter;
