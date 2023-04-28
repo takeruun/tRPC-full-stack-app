@@ -429,6 +429,16 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@trpc/client@^10.21.3-alpha.3":
+  version "10.21.3-alpha.3"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.21.3-alpha.3.tgz#d5010cc5062bba2c0c6df7e61352edf28a11d058"
+  integrity sha512-HHBtJ9AijdC/zzuaL5yd/g/LnRc7K9ECWOpOyRXHcDVmStl1EpwnE+FkuozN28G1ArVEWNSAFRsmOB1eCwxyjA==
+
+"@trpc/server@^10.21.3-alpha.3":
+  version "10.21.3-alpha.3"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.21.3-alpha.3.tgz#d8bd1570cb56264c4395f1dcfe108472cea6075e"
+  integrity sha512-ICZbOLocqd570lHpiOt7XaE5vfLXyalNPl7JPtsP5jQ1WUaORB34R6sgvfvv/boruzM9ArpYTG7KRhBqM0SJoA==
+
 "@types/json-schema@^7.0.9":
   version "7.0.11"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.11.tgz#d421b6c527a3037f7c84433fd2c4229e016863d3"
